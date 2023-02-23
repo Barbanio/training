@@ -1,5 +1,9 @@
 # training
 
+All about trainings, workshops, courses, etc.
+
+---------
+
 After merging the scripts of the first training videos, you can find all the information about this videos in their storyboards (Text, slides and animations):
 
 - Video 1: What are APIs - 🔗 https://docs.google.com/presentation/d/1WAlxxo-neqac5hczq8sCTMYx9jqelwvZ/edit#slide=id.p1
